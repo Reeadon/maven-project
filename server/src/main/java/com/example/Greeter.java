@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   * This is a method
+   * This is a method.
    */
   final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
